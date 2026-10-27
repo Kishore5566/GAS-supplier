@@ -1,0 +1,6 @@
+{
+  "name": "Gas Cylinder Lifecycle Management Platform",
+  "description": "Enterprise operations platform for gas suppliers to track cylinder inventory, customer deliveries, refilling operations, leak inspections, and lifecycle audit history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
